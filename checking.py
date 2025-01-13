@@ -1,4 +1,4 @@
-from funciones_webscraper import *
+from functions import *
 from zipfile import ZipFile
 # from transformers import AutoTokenizer
 import sys
